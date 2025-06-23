@@ -104,3 +104,8 @@ A company produces two products: **Product A** and **Product B**. Each product r
 
 This project is submitted as part of **Task 4 of the CODTECH Data Science Internship** and demonstrates practical understanding of optimization with Python.
 
+---
+
+## Output
+
+![Image](https://github.com/user-attachments/assets/13ef5ba6-3ce0-46c2-ae1d-ca20c5795c8d)
